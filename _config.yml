@@ -1,0 +1,28 @@
+name: R-AWARENESS
+favicon: null
+layout_spectrum: 0.34746713610365987
+typography_spectrum: 0.7796214113477618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.595674590440467
+  lightness: 0.19159866101108491
+  saturation: 0.519966809777543
+  rhythmicContrast: 0.9043997237458825
+purpose: []
